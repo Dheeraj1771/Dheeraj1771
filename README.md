@@ -18,7 +18,7 @@
 
 <br>
 <h1>🏆 Trophies</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dheeraj1771" alt="dheeraj1771" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dheeraj1771" alt="dheeraj1771" /></a> </p>
 <h1 align="left">Connect with me:</h1>
 <p align="left">
 <a href="https://twitter.com/dheerajkesavan7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dheerajkesavan7" height="30" width="40" /></a>
