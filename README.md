@@ -2,7 +2,7 @@
 <h1 align="center">
 <a href="https://github.com/Dheeraj1771"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=50&duration=3000&pause=800&center=true&vCenter=true&width=435&height=100&lines=Hi+There+%F0%9F%91%8B;I'm+K+Dheeraj!" alt="Typing SVG" /></a></h1>
 
-<h2 align="center">Crafting Clean Code with Java and Mastering DSA</h2>
+<h2 align="center">Crafting Clean Code with Java and Mastering DSA!</h2>
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5119ee303e5e49cdf23def653b737bede0da49a859a34714d62d9ab518afbbb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966">
 <h3>💫 About Me</h3>
