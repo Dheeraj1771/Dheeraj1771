@@ -12,7 +12,7 @@
 - ⚡ Fun fact **🌟 I believe every problem has a solution, and I'm here to find it!**
 - 💬 Ask me about **DSA**
 
-  
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dheeraj1771&label=Profile%20views&color=0e75b6&style=flat" alt="dheeraj1771" /> </p>
 <p align="left"> <a href="https://twitter.com/dheerajkesavan7" target="blank"><img src="https://img.shields.io/twitter/follow/dheerajkesavan7?logo=twitter&style=for-the-badge" alt="dheerajkesavan7" /></a> </p>
 
@@ -37,8 +37,7 @@
 [![](https://raw.githubusercontent.com/Dheeraj1771/githubstats/master/profile-summary-card-output/radical/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Dheeraj1771/githubstats/master/profile-summary-card-output/radical/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Dheeraj1771/githubstats/master/profile-summary-card-output/radical/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Dheeraj1771/githubstats/master/profile-summary-card-output/radical/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dheeraj1771&show_icons=true&locale=en&layout=compact" alt="dheeraj1771" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dheeraj1771&show_icons=true&locale=en&theme=radical&no-frame=false" alt="dheeraj1771" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dheeraj1771&theme=radical&no-frame=false" alt="dheeraj1771" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dheeraj1771&show_icons=true&locale=en" alt="dheeraj1771" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dheeraj1771&" alt="dheeraj1771" /></p>
+<p><img align="center" width=400px src="https://github-readme-stats.vercel.app/api/top-langs?username=dheeraj1771&show_icons=true&locale=en&layout=compact&theme=radical&no-frame=false" alt="dheeraj1771" /></p>
