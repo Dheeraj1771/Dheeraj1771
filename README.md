@@ -39,11 +39,11 @@
 
 <h1 align="left">Connect with me:</h1>
 <p align="center">
-<a href="https://twitter.com/dheerajkesavan7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dheerajkesavan7" height="30" width="40" /></a>&nbsp;&nbsp;
-<a href="https://linkedin.com/in/k dheeraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="k dheeraj" height="30" width="40" /></a>&nbsp;&nbsp;
-<a href="https://instagram.com/dheeraj_kesavan_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dheeraj_kesavan_07" height="30" width="40" /></a>&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/dheerajkseven" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dheerajkseven" height="30" width="40" /></a>&nbsp;&nbsp;
-<a href="https://www.leetcode.com/dheerajkseven" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dheerajkseven" height="30" width="40" /></a>&nbsp;&nbsp;
-<a href="https://auth.geeksforgeeks.org/user/dheerajkesavan7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dheerajkesavan7" height="30" width="40" /></a>&nbsp;&nbsp;
+<a href="https://twitter.com/dheerajkesavan7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dheerajkesavan7" height="40" width="40" /></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/k dheeraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="k dheeraj" height="40" width="40" /></a>&nbsp;&nbsp;
+<a href="https://instagram.com/dheeraj_kesavan_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dheeraj_kesavan_07" height="40" width="40" /></a>&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/dheerajkseven" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dheerajkseven" height="40" width="40" /></a>&nbsp;&nbsp;
+<a href="https://www.leetcode.com/dheerajkseven" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dheerajkseven" height="40" width="40" /></a>&nbsp;&nbsp;
+<a href="https://auth.geeksforgeeks.org/user/dheerajkesavan7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dheerajkesavan7" height="40" width="40" /></a>&nbsp;&nbsp;
 </p>
 
