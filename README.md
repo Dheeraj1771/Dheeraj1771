@@ -40,7 +40,7 @@
 [![](https://raw.githubusercontent.com/Dheeraj1771/githubstats/master/profile-summary-card-output/radical/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Dheeraj1771/githubstats/master/profile-summary-card-output/radical/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 </div>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dheeraj1771&show_icons=true&locale=en&theme=radical&no-frame=false" alt="dheeraj1771" />
+<p align = "center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dheeraj1771&show_icons=true&locale=en&theme=radical&no-frame=false" alt="dheeraj1771" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dheeraj1771&theme=radical&no-frame=false" alt="dheeraj1771" /></p>
 
 <p align="center"><img align="center" width=400px src="https://github-readme-stats.vercel.app/api/top-langs?username=dheeraj1771&show_icons=true&locale=en&layout=compact&theme=radical&no-frame=false" alt="dheeraj1771" /></p>
