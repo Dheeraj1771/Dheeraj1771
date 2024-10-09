@@ -52,4 +52,7 @@
 <a href="https://www.leetcode.com/dheerajkseven" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dheerajkseven" height="40" width="40" /></a>&nbsp;&nbsp;
 <a href="https://auth.geeksforgeeks.org/user/dheerajkesavan7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dheerajkesavan7" height="40" width="40" /></a>&nbsp;&nbsp;
 </p>
-
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,vscode,github,git" />
+<img src="https://skillicons.dev/icons?i=python,javascript,cpp,java,mysql" /><br>
+</div>
