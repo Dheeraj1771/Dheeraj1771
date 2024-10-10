@@ -42,6 +42,12 @@
 
 <h1>🏆 Trophies</h1>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dheeraj1771&theme=radical&no-frame=false" alt="dheeraj1771" /></a> </p>
+<div align="center">
+  <h1>🐍 My Contributions 🐍</h1>
+  <br>
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Dheeraj1771/Dheeraj1771/output/github-contribution-grid-snake.svg" />
+<br/><br/><br/>
+</div>
 
 <h1 align="left">Connect with me:</h1>
 <p align="center">
