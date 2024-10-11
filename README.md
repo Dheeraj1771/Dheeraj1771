@@ -42,13 +42,19 @@
 <p align = "center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dheeraj1771&show_icons=true&locale=en&theme=radical&no-frame=false" alt="dheeraj1771" /></p>
 <p align="center"><img align="center" width=400px src="https://github-readme-stats.vercel.app/api/top-langs?username=dheeraj1771&show_icons=true&locale=en&layout=compact&theme=radical&no-frame=false" alt="dheeraj1771" /></p>
 
-<h1>🏆 Trophies</h1>
+<h1 align="center>🏆 Trophies 🏆</h1>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dheeraj1771&theme=radical&no-frame=false" alt="dheeraj1771" /></a> </p>
 <div align="center">
   <h1>🐍 My Contributions 🐍</h1>
   <br>
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Dheeraj1771/Dheeraj1771/output/github-contribution-grid-snake-dark.svg" />
 <br/><br/><br/>
+</div>
+<div align = "center">
+<h1>🎖️ Unlock My Badge Vault! 🎖️</h1>
+  
+[![An image of @dheeraj1771's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dheeraj1771)](https://holopin.io/@dheeraj1771)
+
 </div>
 
 <h1 align="left">Connect with me:</h1>
@@ -60,4 +66,3 @@
 <a href="https://www.leetcode.com/dheerajkseven" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dheerajkseven" height="40" width="40" /></a>&nbsp;&nbsp;
 <a href="https://auth.geeksforgeeks.org/user/dheerajkesavan7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dheerajkesavan7" height="40" width="40" /></a>&nbsp;&nbsp;
 </p>
-
