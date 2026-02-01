@@ -4,7 +4,7 @@
 
 <h2 align="center">Crafting Clean Code with Java and Mastering DSA!</h2>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5119ee303e5e49cdf23def653b737bede0da49a859a34714d62d9ab518afbbb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/9e7e054f97008a0e71e75db243d40d2e92b713c13e8f19ac28fc1f216e9345ad/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966">
 <h3>💫 About Me</h3>
 
 - 🌱 I’m currently learning **DSA, Data Science & Web Development**
