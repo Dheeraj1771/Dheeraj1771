@@ -39,11 +39,11 @@
 
 </div>
 <p  align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dheeraj1771&theme=radical&no-frame=false" alt="dheeraj1771" /></p>
-<p align = "center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dheeraj1771&show_icons=true&locale=en&theme=radical&no-frame=false" alt="dheeraj1771" /></p>
-<p align="center"><img align="center" width=400px src="https://github-readme-stats.vercel.app/api/top-langs?username=dheeraj1771&show_icons=true&locale=en&layout=compact&theme=radical&no-frame=false" alt="dheeraj1771" /></p>
+<!-- <p align = "center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dheeraj1771&show_icons=true&locale=en&theme=radical&no-frame=false" alt="dheeraj1771" /></p>
+<p align="center"><img align="center" width=400px src="https://github-readme-stats.vercel.app/api/top-langs?username=dheeraj1771&show_icons=true&locale=en&layout=compact&theme=radical&no-frame=false" alt="dheeraj1771" /></p> -->
 
-<h1 align="center">🏆 Trophies 🏆</h1>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dheeraj1771&theme=radical&no-frame=false" alt="dheeraj1771" /></a> </p>
+<!-- <h1 align="center">🏆 Trophies 🏆</h1>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dheeraj1771&theme=radical&no-frame=false" alt="dheeraj1771" /></a> </p> -->
 <div align="center">
   <h1>🐍 My Contributions 🐍</h1>
   <br>
